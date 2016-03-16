@@ -1,7 +1,7 @@
-# PixelQuest
+![alt text](https://raw.githubusercontent.com/xron89/PixelQuest/master/assets/sprites/ui/logo.png "PixelQuest")
 PixelQuest is an open world MMORPG I developed during my final year of university. Built on the HTML5 canvas browser quest utilizes the latest web technologies including Node & WebSockets.io. Although PixelQuest is really fun to play, it was developed as a demo to showcase how capable front-end technologies are.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/xron89/PixelQuest/master/assets/world/assets/map-tiles.png "PixelQuest")
 
 <h2>Technologies used</h2>
 <ul>
