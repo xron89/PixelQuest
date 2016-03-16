@@ -5,6 +5,7 @@ PixelQuest is an open world MMORPG I developed during my final year of universit
 ![alt text](https://raw.githubusercontent.com/xron89/PixelQuest/master/assets/world/assets/map.png "PixelQuest")
 
 <h2>Technologies used</h2>
+***
 <ul>
 <li>Javscript/Jquery</li>
 <li>PhaserJS</li>
